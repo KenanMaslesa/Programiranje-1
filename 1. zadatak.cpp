@@ -1,3 +1,6 @@
+/* a) Omogućiti korisniku unos prirodnog broja i nakon toga napraviti funkciju koja će prebrojati koliko taj broj ima cifara
+   b) Za taj broj pronaći i ispisati prvu, srednju i zadnju cifu (koristiti zasebne funkcije)
+   c) Obrnuti cifre tom broju (npr. ako je broj bio 12345 treba biti 54321) */
 #include<iostream>
 using namespace std;
 

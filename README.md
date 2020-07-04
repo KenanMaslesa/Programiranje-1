@@ -1,6 +1,7 @@
 # Programiranje 1
 
 Detaljno objašnjenje zadataka pogledajte na linkovima ispod.
+
 1.zadatak https://www.youtube.com/watch?v=R_YE-ytnJXM
 
 2.zadatak https://www.youtube.com/watch?v=Axkqlv0JZAc
